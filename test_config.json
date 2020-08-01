@@ -1,0 +1,26 @@
+{
+    "client_id": "test1",
+    "action_load": {
+        "print_msg": "c:\\Users\\sl1729\\Documents\\Xilinx_summer_school_project\\face_s_server_project\\test_save_config.py",
+        "print_msg2": "c:\\Users\\sl1729\\Documents\\Xilinx_summer_school_project\\face_s_server_project\\test_save_config.py",
+        "print_msg3": "c:\\Users\\sl1729\\Documents\\Xilinx_summer_school_project\\face_s_server_project\\test_save_config.py",
+        "time_test": "c:\\Users\\sl1729\\Documents\\Xilinx_summer_school_project\\face_s_server_project\\test_save_config.py"
+    },
+    "host": "",
+    "port": 1883,
+    "keepalive": 60,
+    "topic": {
+        "2server": "to_server",
+        "2device": [
+            "test"
+        ],
+        "2app_deivce": []
+    },
+    "device_pair_app2device": {},
+    "device_pair_device2app": {},
+    "use_quick_search": false,
+    "qos": 0,
+    "on_running": false,
+    "on_connect": false,
+    "device_type": ""
+}
